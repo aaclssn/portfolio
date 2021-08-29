@@ -1,7 +1,3 @@
-$ npm install animate.css --save
-
-$ yarn add animate.css
-
 
 html{
   scroll-behavior: smooth;
